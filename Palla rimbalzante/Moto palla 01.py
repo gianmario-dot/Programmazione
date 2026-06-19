@@ -15,8 +15,8 @@ def main():
     pp = Palla(-1, 0.8, 0.02, 0.1, 0.2)
     
     # Variabili fisiche (pronte per il futuro)
-    g = 0.02                              
-    smorz = 0.8                           
+    g = 0.04                              
+    smorz = 0.5                           
     suolo = -0.8                          
     dt = 0.5
     ritardo = 0.05                        
