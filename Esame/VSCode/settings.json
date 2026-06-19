@@ -1,0 +1,19 @@
+{
+    "editor.fontSize": 18,
+    "editor.lineHeight": 28,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.parameterHints.enabled": true,
+    "editor.wordBasedSuggestions": "currentDocument",
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "files.autoSave": "off"
+}
